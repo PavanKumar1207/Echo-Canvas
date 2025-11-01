@@ -96,7 +96,7 @@ graph TD
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/<your-username>/EchoCanvas.git
+   git clone https://github.com/PavanKumar1207/Echo-Canvas
    cd EchoCanvas
    ```
 
@@ -210,3 +210,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 | “I feel so sad and lost.” | Negative | 🚫 *(No image generated)* |
 
 ---
+## 🤩 Support & Stars
+
+<p align="center"> If you find this project interesting, please give it a ⭐ and share it with others! </p> <p align="center"> <img src="https://img.shields.io/github/stars/PavanKumar1207/Echo-Canvas?style=social"> </p>
+
+---
+
+## 🏁 End of README  
+`“Where words meet imagination — EchoCanvas turns sound into art.”`
