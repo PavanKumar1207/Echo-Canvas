@@ -136,22 +136,6 @@ Then open the **localhost URL** (usually `http://localhost:8501`) in your browse
 
 ---
 
-## 📁 Project Structure
-
-```
-EchoCanvas/
-│
-├── speech_to_image.py        # Main Streamlit app
-├── requirements.txt          # All dependencies
-├── assets/                   # Optional: images, icons, etc.
-├── recordings/               # Saved audio files
-├── outputs/                  # Generated AI images
-├── README.md                 # Documentation
-└── LICENSE                   # MIT License
-```
-
----
-
 ## 🧠 Future Enhancements
 
 - 🎭 **Emotion-based Style Generation:** Modify image style based on detected emotion (e.g., dark for sad, bright for happy).  
