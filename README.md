@@ -1,6 +1,18 @@
-# 🎨 EchoCanvas: Real-Time Speech-to-Image Generation using Deep Learning
+<p align="center">
+  <img src="assets/banner.png" alt="EchoCanvas Banner" width="800"/>
+</p>
 
-> “Transform your voice into visuals — because imagination starts with words.”
+<h1 align="center">🎨 EchoCanvas: Real-Time Speech-to-Image Generator</h1>
+<p align="center">
+  <i>Transform your voice into visuals — because imagination starts with words.</i><br>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=flat-square&logo=streamlit">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/OpenAI-Whisper-green?style=flat-square&logo=openai">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square">
+</p>
 
 ---
 
